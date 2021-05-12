@@ -443,4 +443,3 @@ Token: INT_CONSTANTE -> 0
 Token: PONTO_E_VIRGULA -> ;
 Token: FECHA_CHAVES -> }
 Token: FECHA_CHAVES -> }
-<EOF>
